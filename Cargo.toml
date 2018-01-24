@@ -1,0 +1,7 @@
+[package]
+name = "llvm-tutorial-7"
+version = "0.1.0"
+authors = ["Fredrik Ekholdt <freekh@gmail.com>"]
+
+[dependencies]
+llvm-sys = "50"
