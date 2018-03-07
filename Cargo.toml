@@ -4,4 +4,4 @@ version = "0.1.0"
 authors = ["Fredrik Ekholdt <freekh@gmail.com>"]
 
 [dependencies]
-llvm-sys = "50"
+inkwell = { git = "https://github.com/TheDan64/inkwell", branch = "master" }
